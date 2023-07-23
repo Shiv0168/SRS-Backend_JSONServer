@@ -1,0 +1,29 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Shiv Kumar Singh",
+      "email": "shiv01.chemengg@gmail.com"
+    },
+    {
+      "id": 1,
+      "name": "Shiv Kumar Singh2",
+      "email": "shiv02.chemengg@gmail.com"
+    },
+    {
+      "id": 1,
+      "name": "Shiv Kumar Singh3",
+      "email": "shiv03.chemengg@gmail.com"
+    },
+    {
+      "id": 1,
+      "name": "Shiv Kumar Singh4",
+      "email": "shiv04.chemengg@gmail.com"
+    },
+    {
+      "name": "hello world",
+      "email": "hellowWorld111@gmail.com",
+      "id": 2
+    }
+  ]
+}
